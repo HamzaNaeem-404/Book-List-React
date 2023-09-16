@@ -1,0 +1,43 @@
+[
+    {
+        "image":"https://www.libertybooks.com/image/cache/catalog/fuck-640x996.jpg?q6",
+        "title":"The Subtle Art of Not Giving a F*ck",
+        "author":"Book by Mark Manson",
+        "price": "US$14.38"
+    },
+    
+    {
+        "image":"https://m.media-amazon.com/images/I/61UYIx47H0L._SY425_.jpg",
+        "title":"Daughter of Destiny: An Autobiography",
+        "author":"Book by Benazir Bhutto",
+        "price": "US$13.39"
+    },
+    {
+        "image":"https://m.media-amazon.com/images/I/91ke43dIxkL._SY425_.jpg",
+        "title":"Iron Flame (The Empyrean, 2)",
+        "author":"Book by Rebecca Yarros",
+        "price": "US$15.99"
+    },
+    {
+        "image":"https://m.media-amazon.com/images/I/51J9mQz4SrL.jpg",
+        "title":"Holly",
+        "author":"Book by Stephen King",
+        "price": "US$9.99"
+    },
+        
+    {
+        "image":"https://m.media-amazon.com/images/I/81SSslfXCpL._SY425_.jpg",
+        "title" : "Together With Christ: A Dating Couples Devotional: 52 Devotions and Bible Studies to Nurture Your Relationship",
+        "author":"Book by Chelsea Damon",
+        "price": "US$17.49"
+    },
+
+    {
+        "image":"https://duabookpalace.com/cdn/shop/products/dua-book-palace-online-steal-like-an-artist-38340878205160.jpg?v=1663837971",
+        "title" : "Steal Like an Artist",
+        "author":"Book by Austin Kleon",
+        "price": "US$11.29"
+    }
+    
+
+]
